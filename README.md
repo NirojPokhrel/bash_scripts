@@ -1,1 +1,1 @@
-# shell_script_notes.github.io
+Visit [here](https://nirojpokhrel.github.io/bash_scripts/) for more on bash scripts.
